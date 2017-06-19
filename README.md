@@ -50,8 +50,7 @@ The package json contains all necessary dependencies except for java and neo4J.
 
 View the project roadmap and issues [here](https://github.com/upstanding-biome/sixdegrees/issues)
 
-Our project is still not deployed successfully.
-The project works in localhost and has a hosted database using graph story, an add on of heroku. The database is located at [Graphstory](https://neo-55cb99b18376e-364459c455.do-stories.graphstory.com:7473/browser/) or you can ask someone involved in the project for the database code.
+The database is located at [Graphstory](https://neo-55cb99b18376e-364459c455.do-stories.graphstory.com:7473/browser/) or you can ask someone involved in the project for the database code.
 
 ## Contributing
 
